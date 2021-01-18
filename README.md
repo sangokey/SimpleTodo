@@ -32,7 +32,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I think the biggest challenge was working with the ItemsAdapter and connecting that to the MainActivity.  
+I could follow through the tutorial but it would be hard for me to implement from scratch.  
 
 ## License
 
